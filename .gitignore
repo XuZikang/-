@@ -3,10 +3,6 @@ packer_cache/
 
 # For built boxes
 *.box
-
-
 *.pdf
-
 *.mp3
-
 *.caj
